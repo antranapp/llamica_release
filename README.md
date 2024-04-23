@@ -1,4 +1,4 @@
-# Quick Drop:
+# Llamica:
 
 <p align="center">
   <img width="150" height="150" src="assets/logo.png">
